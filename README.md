@@ -1,33 +1,33 @@
-EXPENSETRACKERAI 
-A simple and elegant web application that helps users track income and expenses while providing basic AI-powered financial insights.
+# Ledger-AI
 
-FEATURES
-- Add income and expense transactions  
-- View total balance, income, and spending  
-- Categorize expenses (e.g., Food, Travel, Bills)  
-- AI assistant “SpendBot” gives smart financial tips  
-- Persistent storage using browser's localStorage  
-- Modern and responsive UI for all devices  
+## Overview
+A sophisticated web application designed to help users efficiently track income and expenses while delivering AI-powered financial insights for smarter money management.
 
-PREREQUISITES
-- A modern web browser (Chrome, Firefox, Safari, Edge)  
-- No installation or server setup required  
+## Key Features
+- **Transaction Management**: Seamlessly add and manage both income and expense entries
+- **Financial Dashboard**: Monitor your total balance, income streams, and expenditures at a glance
+- **Intelligent Categorization**: Organize expenses into customizable categories (Food, Travel, Bills, etc.)
+- **AI Financial Assistant**: Receive personalized financial recommendations from "SpendBot"
+- **Secure Local Storage**: All data is securely stored in your browser's localStorage
+- **Responsive Design**: Enjoy a consistent experience across desktop, tablet, and mobile devices
 
-USAGE 
-1. Launch `index.html` in your browser  
-2. Add income and expense entries using the input form  
-3. View real-time updates of your balance and category-wise totals  
-4. Read personalized tips from SpendBot based on your data  
+## System Requirements
+- Modern web browser (Chrome, Firefox, Safari, or Edge)
+- No server installation or backend configuration needed
 
-SUPPORTED FILE FORMATS 
-- No file uploads needed (client-side app only)  
+## Getting Started
+1. Open `index.html` in your preferred browser
+2. Enter income and expense transactions through the intuitive input form
+3. View your financial status update in real-time
+4. Benefit from tailored financial insights provided by our SpendBot assistant
 
-TECHNICAL DETAILS 
-The application uses:
+## Technical Architecture
+The application leverages:
+- **Frontend**: HTML5, CSS3, and modern JavaScript
+- **Data Persistence**: Browser's localStorage for secure, client-side data storage
+- **Intelligence Layer**: Advanced rule-based algorithms for financial insights
+- **User Interface**: Responsive design principles with CSS Flexbox and Media Queries
 
-- HTML, CSS, JavaScript for the frontend  
-- LocalStorage for saving transaction data  
-- Rule-based logic in JavaScript for AI tips (SpendBot)  
-- Responsive design using CSS Flexbox and Media Queries  
+---
 
-
+*Ledger-AI: Intelligent Financial Management at Your Fingertips*
